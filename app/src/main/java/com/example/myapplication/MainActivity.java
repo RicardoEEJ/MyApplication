@@ -26,5 +26,6 @@ public class MainActivity extends AppCompatActivity {
         Log.w(TAG, "esto es un warning");
 
         Log.d(TAG, "esto es el debug");
+        Log.d(TAG, "esto es el debug");
     }
 }
